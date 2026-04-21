@@ -42,7 +42,7 @@ export default function Accueil() {
   const couleur = restaurant?.couleur_principale || '#E8A272'
 
   return (
-    <div style={{ fontFamily: "'Outfit', sans-serif", background: '#080503', color: '#F0E6D6', minHeight: '100vh', overflowX: 'hidden' }}>
+    <div style={{ fontFamily: "'Outfit', sans-serif", background: '#ddd2cb', color: '#F0E6D6', minHeight: '100vh', overflowX: 'hidden' }}>
 
       {/* Google Fonts */}
       <style>{`
